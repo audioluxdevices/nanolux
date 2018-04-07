@@ -10,7 +10,7 @@ Nanolux analyze mono audio signal from line-in 3.5mm jack or internal microphone
 7. 3 small push button rotary encoders for user interface.
 8. Onboard WS2812B IC for status indicator (has separate data pinout than the LED breakout).
 9. Schematic will merge the following designs:
-  * Adafruit Feather ESP32 [Product Link](https://www.adafruit.com/product/3405) [Schematic](https://github.com/adafruit/Adafruit-HUZZAH32-ESP32-Feather-PCB)
-  * Sparkfun MSGEQ7 Spectrum Shield (using 1 MSGEQ7) [Product Link](https://www.sparkfun.com/products/13116) [Schematic](https://github.com/sparkfun/Spectrum_Shield/tree/HW_1.6_FW_1.1)
-  * Sparkfun MEMS Microphone Breakout - INMP401 [Product Link](https://www.sparkfun.com/products/9868) [Schematic](https://github.com/sparkfun/MEMS_Mic_Breakout-ADMP401/tree/V_1.3)
+  * Adafruit Feather ESP32 [Product Link](https://www.adafruit.com/product/3405) | [Schematic](https://github.com/adafruit/Adafruit-HUZZAH32-ESP32-Feather-PCB)
+  * Sparkfun MSGEQ7 Spectrum Shield (using 1 MSGEQ7) [Product Link](https://www.sparkfun.com/products/13116) | [Schematic](https://github.com/sparkfun/Spectrum_Shield/tree/HW_1.6_FW_1.1)
+  * Sparkfun MEMS Microphone Breakout - INMP401 [Product Link](https://www.sparkfun.com/products/9868) | [Schematic](https://github.com/sparkfun/MEMS_Mic_Breakout-ADMP401/tree/V_1.3)
 
